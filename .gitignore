@@ -1,2 +1,7 @@
+# python, and other bs
+.ruff_cache
+.ipynb_checkpoints
+.venv
+
 # Macos
 .DS_Store
